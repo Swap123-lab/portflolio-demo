@@ -1,0 +1,38 @@
+.navigation-bar{
+  font-family: 'Lobster';
+  color: white;
+}
+.navbar-brand{
+  padding-left: 100px;
+}
+.navbarlinks{
+  padding-left: 800px;
+}
+.textswap{
+  padding-top: 200px;
+  font-family: 'Kanit';
+  color: #810CA8;
+}
+.h{
+  padding-bottom:15px;
+}
+#testimonials{
+  background-color: #810CA8;
+  color: white;
+  padding-top: 100px;
+}
+.navigation{
+  padding-bottom: 100px;
+}
+.row{
+  padding-bottom: 50px;
+}
+.carousel-inner{
+  text-align: center;
+}
+@media (max-width:1028px){
+  .title-image{
+    position: static;
+    transform: rotate(0);
+    }
+}
